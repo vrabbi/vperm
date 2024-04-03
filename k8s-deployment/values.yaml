@@ -1,0 +1,6 @@
+#@data/values
+---
+user: <YOUR VCENTER USERNAME>
+password: <YOUR VCENTER PASSWORD>
+server: <YOUR VCENTER FQDN>
+image: ghcr.io/vrabbi/vperm:1.0.0
