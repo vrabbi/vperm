@@ -1,5 +1,6 @@
 ## vSphere Permissions
-
+You can run this locally as described bellow, or go to the k8s-deployment folder for instructions on how to run this in your cluster.
+  
 ### Compiling 
 
 Use golang >=1.22.
